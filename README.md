@@ -47,10 +47,12 @@ ________________________________________________________________________________
 - Detecté errores críticos que afectaban la lógica de reserva y la disponibilidad de vehículos, evitando fallos en producción
 
 ## Urban Scooter (Plataforma web y API para alquiler de scooters)
-  **Descripción**: Solución tecnológica que optimiza la reserva de Scooter, centraliza pagos y proporciona trazabilidad de los viajes para una experiencia segura y eficiente.
-  **Tecnologías utilizadas:** Pruebas manuales, API Testing, Postman, JIRA, SQL.
+  
+ **Descripción**: Solución tecnológica que optimiza la reserva de Scooter, centraliza pagos y proporciona trazabilidad de los viajes para una experiencia segura y eficiente.
+ 
+ **Tecnologías utilizadas:** Pruebas manuales, API Testing, Postman, JIRA, SQL.
 
-  **Contribución:**
+ **Contribución:**
 - Analicé requisitos funcionales para asegurar la correcta definición de criterios de aceptación en flujos de movilidad de Urban Scooter.
 - Diseñé, ejecuté y documenté casos de prueba funcionales en la aplicacion móvil y web.
 - Realicé pruebas de API (creación, asignación y seguimiento de viajes) usando Postman.
